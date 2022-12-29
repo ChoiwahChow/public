@@ -14,3 +14,5 @@ SmallInvSemi
 SmallMeadows
 
 SmallSemiVarN12Idemp
+
+The package files are tar.gz files that can be extracted using the `tar -tf` command.
